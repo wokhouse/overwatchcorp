@@ -1,0 +1,37 @@
+body {
+  background-color: #000;
+}
+.name-svg {
+  position: fixed;
+  width: 251px;
+  height: 251px;
+  margin: 1% auto; /* Will not center vertically and won't work in IE6/7. */
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+.header-name {
+  font-size: 42pt;
+}
+.header-space {
+  display: block;
+  width: 100vw;
+  height: 251px;
+}
+.content {
+  background: #000;
+  z-index: 10;
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+}
+p,h1,h2,h3,h4,h5,h6,li,a {
+  color: #fff;
+}
+a:hover {
+  color: #adcca7;
+}
+h1 {
+  text-align: center;
+  border-bottom: 1px solid #adcca7;
+  padding-bottom: 0.5rem;
+}
