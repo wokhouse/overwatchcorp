@@ -2,12 +2,18 @@
   "name": "overwatchcorp",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://overwatchcorp.github.io",
+=======
+>>>>>>> parent of 5428ae30 (Updates)
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+<<<<<<< HEAD
     "gh-pages": "^3.2.1",
+=======
+>>>>>>> parent of 5428ae30 (Updates)
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -19,9 +25,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> parent of 5428ae30 (Updates)
   },
   "eslintConfig": {
     "extends": [
