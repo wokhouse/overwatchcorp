@@ -122,15 +122,6 @@ App.propTypes = {
   className: PropTypes.string.isRequired,
 };
 
-const breakpoints = {
-  xs: '0',
-  sm: '576px',
-  md: '768px',
-  lg: '992px',
-  xl: '1200px',
-  xxl: '1400px',
-};
-
 export default styled(App)`
   /* @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,900;1,300;1,900&display=swap'); */
   @import url("https://use.typekit.net/dlz1dpe.css");
