@@ -12,6 +12,7 @@ const App = ({ className }) => (
           <a className="me-2" href="mailto:hello@fungj.net">hello@fungj.net</a>
           <a className="me-2" href="https://github.com/overwatchcorp">github</a>
           <a className="me-2" href="https://www.linkedin.com/in/jade-fung/">linkedin</a>
+          <Link to="cv" className="me-2">cv</Link>
         </div>
       </div>
       <div className="row mt-1">
