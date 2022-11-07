@@ -1,5 +1,5 @@
-# Jade Fung
-## Frontend Engineer & Baker in Portland, Oregon
+# ![my black and white cat, crane](https://fungj.net/favicon-32x32.png) Jade Fung 
+**Frontend Engineer & Baker in Portland, Oregon**
 
 Hello! I'm an engineer who applies my skills and learnings to good code and good bread. I love to see the fruits of my labors being enjoyed by friends and peers, which is why I'm drawn to sharable and universal mediums.
 
