@@ -1,7 +1,8 @@
-# 🧧 hi it's jade! 🧧
+# Jade Fung
+## Frontend Engineer & Baker in Portland, Oregon
 
-i'm a javascript engineer in portland, oregon. right now, i'm a solutions engineer at soul machines, working on engineering and coaching for the implementation of their digital people. i do a lot of frontend stuff and internal tooling.
+Hello! I'm an engineer who applies my skills and learnings to good code and good bread. I love to see the fruits of my labors being enjoyed by friends and peers, which is why I'm drawn to sharable and universal mediums.
 
-i got my bachelors of arts in psychology from reed college in 2020. i also worked there as an educational technology consultant, implementing statistical analyses and visualizations in R for thesising seniors. 
+You can learn more about me on my website: <a href="https://fungj.net">fungj.net</a>.
 
-<p align="center"><a href="mailto:hello@fungj.net">hello@fungj.net</a> | <a href="https://fungj.net">fungj.net</a> | <a href="https://github.com/overwatchcorp">GitHub</a> | <a href="https://www.linkedin.com/in/jade-fung/">LinkedIn</a>
+<p align="center"><a href="mailto:hello@fungj.net">hello@fungj.net</a> | <a href="https://www.linkedin.com/in/jade-fung/">LinkedIn</a> | <a href="https://www.instagram.com/sleepycatpdx/">Instagram</a> 
